@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="supported_locale">
+        <item>ru_RU</item>
+        <item>uk_UA</item>  	
+    </string-array>	
+</resources>
